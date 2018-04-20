@@ -1,0 +1,25 @@
+{
+	"word_dic": {
+		"Galaxy": "CODE0001",
+		"GALAXY": "CODE0001",
+		"GaLaXy": "CODE0001",
+		"갤럭시": "CODE0001",
+		"S": "CODE0002",
+		"s": "CODE0002",
+		"9": "CODE0003"
+	},
+	"code_dic": {
+		"CODE0001": [
+			"Galaxy",
+			"GALAXY",
+			"갤럭시"
+		],
+		"CODE0002": [
+			"S",
+			"s"
+		],
+		"CODE0003": [
+			"9"
+		]
+	}
+}
